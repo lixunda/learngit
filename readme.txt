@@ -4,4 +4,4 @@ git is a distributed 1233.
 git is free software.
 我是很想学会的。
 git  就是很好玩哦。
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
